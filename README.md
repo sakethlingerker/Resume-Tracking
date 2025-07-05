@@ -33,7 +33,7 @@ A powerful AI-powered resume analysis tool that helps job seekers optimize their
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/sakethlingerker/Resume-Tracking>
+git clone <https://github.com/manashwini27/Resume-Tracking-using-Gemini-pro-vision-api >
 cd Resume-Tracking
 ```
 
